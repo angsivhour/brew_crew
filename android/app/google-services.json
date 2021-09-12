@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204857404762",
+    "project_id": "sivhour-brew-crew",
+    "storage_bucket": "sivhour-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204857404762:android:f5d61f08e35d13700b1763",
+        "android_client_info": {
+          "package_name": "com.sivhour.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204857404762-gimro5acqvd14o6gb1msp2joegm4nirb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOhe1t9N0UciE0r26dksCSrrz1icm_UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204857404762-gimro5acqvd14o6gb1msp2joegm4nirb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
